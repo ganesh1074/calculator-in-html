@@ -1,5 +1,5 @@
 # calculator-in-html
-In this project, we are going to create portfolio WebPage to show Information about candidate.
+In this project, we are going to create calculator WebPage to perform mathematical calculations.
 
 ## 🚀 About Me
 I'm a Web Developer...
