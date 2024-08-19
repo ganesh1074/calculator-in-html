@@ -9,7 +9,7 @@ I'm a Web Developer...
 
 
 ## 🔗 Links
-[![calculator-in-html](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/ganesh1074/calculator-in-html)
+[![calculator-in-html]([https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/ganesh1074/calculator-in-html](https://github.com/ganesh1074/calculator-in-html))
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganesh-kakde-2074492bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![GitHub](https://img.shields.io/badge/GitHub-1DA1F2?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ganesh1074)
 
@@ -22,20 +22,20 @@ I'm a Web Developer...
 
 ## Documentation
 
-[Documentation](https://github.com/ganesh1074/portfolio)
+[Documentation](https://github.com/ganesh1074/calculator-in-html)
 
 
 ## lessons
-I Leraned to implement HTML project to create a webpage showing my portfolio. 
-while implementing this project some errors are arrived such as web page unable to show images in browsers etc.
-to resolve this problem i was run this program using live server.
+I Leraned to implement HTML project to create a calculator to perform mathematical calculations. 
+while implementing this project some errors are arrived such as graphical problems.
+to resolve this problem i was make changes in code.
 
 
 ## Related
 
 Here are some related projects
 
-[Awesome README](https://github.com/matiassingers/awesome-readme)
+[Awesome README](https://github.com/ganesh1074/portfolio)
 
 
 ## Usage/Examples
@@ -59,5 +59,6 @@ Here are some related projects
 ## Roadmap
 
 - Chrome
+- Microsoft Edge
 
 
