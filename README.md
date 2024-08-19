@@ -9,7 +9,7 @@ I'm a Web Developer...
 
 
 ## 🔗 Links
-[![calculator]([https://img.shields.io/badge/calculator-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/ganesh1074/calculator-in-html)
+[![calculator]([https://img.shields.io/badge/calculator-000?style=for-the-badge&logo=calculator&logoColor=white)](https://github.com/ganesh1074/calculator-in-html)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganesh-kakde-2074492bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![GitHub](https://img.shields.io/badge/GitHub-1DA1F2?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ganesh1074)
 
